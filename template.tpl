@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Unique ID Generator",
-  "description": "generates a unique id based on a random id for every page.",
+  "description": "A Google Tag Manager custom variable template that generates unique event IDs for tracking events across your website.",
   "containerContexts": [
     "WEB"
   ],
