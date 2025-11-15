@@ -13,8 +13,8 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Event ID Generator",
-  "description": "generates a unique event id for all gtm / dataLayer events - based on a random id for every page.",
+  "displayName": "Unique ID Generator",
+  "description": "generates a unique id based on a random id for every page.",
   "containerContexts": [
     "WEB"
   ],
